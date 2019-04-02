@@ -3,7 +3,7 @@ import React from 'react'
 
 export default class EyesOnMe extends React.Component {
 
-  handleBlur = () => { console.log('Hey! Eyes on me!')}
+  handleBlur = () => {console.log('Hey! Eyes on me!')}
   focusHandler = () => { console.log('Good!')}
   
   render() {
